@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/MP/IdeaProjects/MercuryTours/src/test/java">
+
+        <classes>
+            <class name="tests.RegisterTest"></class>
+            <class name="tests.LoginTest"></class>
+            <class name="tests.FlightsTest"></class>
+        </classes>
+    </test>
+</suite>
